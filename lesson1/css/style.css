@@ -5,10 +5,7 @@ h1 {
     font-size: 20px;
     background: grey;
 }
-h1:first-child {
-    color: blue;
-    font-size: 20px;
-}
+
 p {
     color: green;
 }
