@@ -3,11 +3,12 @@ body {
 }
 h1 {
     font-size: 20px;
+    background: grey;
 }
-h1 {
-    font-size: 60px;
+h1:first-child {
     color: blue;
+    font-size: 20px;
 }
 p {
-    font-size: 40px;
+    color: green;
 }
